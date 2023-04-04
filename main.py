@@ -5,7 +5,7 @@ import customtkinter as tk
 import json
 import opencc
 import unicodedata
-from PIL import Image
+import PIL.Image as Image
 
 
 # main process
@@ -14,7 +14,7 @@ class ChineseToPinyin:
     __inited = False
 
     # Singleton
-    def __new__(cls, *args, **kwargs):
+    def __new__(cls):
         if cls.__instance is None:
             cls.__instance = super().__new__(cls)
         return cls.__instance
