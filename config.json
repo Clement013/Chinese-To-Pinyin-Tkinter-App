@@ -1,0 +1,68 @@
+{
+  "specialWord": [
+    {
+      "word": "祢",
+      "pinyin": "Ni"
+    },
+    {
+      "word": "祂",
+      "pinyin": "Ta"
+    },
+    {
+      "word": "神",
+      "pinyin": "Shen"
+    },
+    {
+      "word": "主",
+      "pinyin": "Zhu"
+    },
+    {
+      "word": "耶稣",
+      "pinyin": "Ye Su"
+    },
+    {
+      "word": "耶和华",
+      "pinyin": "Ye He Hua"
+    },
+    {
+      "word": "上帝",
+      "pinyin": "Shang Di"
+    },
+    {
+      "word": "圣灵",
+      "pinyin": "Sheng Ling"
+    }
+  ],
+  "convertType": 1,
+  "commentConvertTypeList": [
+    {
+      "name": "关闭自动转换",
+      "value": 0
+    },
+    {
+      "name": "繁体转简体",
+      "value": 1
+    },
+    {
+      "name": "简体转繁体",
+      "value": 2
+    }
+  ],
+  "showInfo": false,
+  "spaceAfterPinyin": true,
+  "appearanceMode": 2,
+  "commentAppearanceModeList": [
+    {
+      "name": "System",
+      "value": 0
+    },
+    {
+      "name": "Light",
+      "value": 1
+    },
+    {
+      "name": "Dark",
+      "value": 2
+    }
+  ]
+}
